@@ -1,0 +1,5 @@
+name: HypixelEzFilter
+version: ${project.version}
+main: me.bcof.hypixelezfilter.HypixelEzFilter
+authors: [Bcof]
+description: Filter which copies Hypixel's phrases
